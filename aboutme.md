@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: learn by doing
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<span class="fa fa-briefcase about-icon"></span>
+I work for Apple as a **software engineer** to build infrastructure for machine learning products. One project that I can tell the public is [TuriCreate](https://github.com/apple/turicreate). Previously, I worked for Zillow Group to develop the core in-house built search engine, called POGO, under Chief Architect [Randy Puttick](https://www.linkedin.com/in/randy-puttick-b00aa0/)'s supervision.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<span class="fa fa-graduation-cap about-icon"></span>
+Obtained MS in **Computer Engineering** from the Columbia University, and Bachelor degree of **Electrical and Information Engineering** from Beihang
+University (previously known as Beijing University of Aeronautics & Astronautics, a better name), Beijing, China.
 
-What else do you need?
+<span class="fa fa-code about-icon"></span>
+Recently, investing most of my time developing machine/deep learning skills. Passionate about infrastructure system-level development. Adept in C/C++ and Python. Learning Erlang and Rust.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<span class="fa fa-heart about-icon"></span>
+During my spare time, I love playing basketball, reading, writing and sketching. I tried to learn Saxophone, but ended up being too noisy to my neighbors and stoped in the halfway. If I had a big house, I would reume it.
