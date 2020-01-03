@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Guihao Liang's Tiny Thoughts
+title: Guihao Liang
 
 # Short description of your site
 description: Do a tiny of this. Do a tiny of that.
@@ -68,7 +68,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+# rss: false
   email: "izana0910@gmail.com"
   # facebook: deanattali
   github: guihao-liang
