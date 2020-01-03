@@ -1,8 +1,0 @@
-language: ruby
-rvm:
-  - 2.5
-before_install:
-  - gem install bundler
-install:
-  - gem install rake
-script: "bundle exec jekyll build"
