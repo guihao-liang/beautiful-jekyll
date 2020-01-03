@@ -11,6 +11,7 @@ common-googlefonts:
 common-js:
   - "/js/jquery-1.11.2.min.js"
   - "/js/bootstrap.min.js"
+  - "/js/anchor.min.js"
   - "/js/main.js"
 ---
 
@@ -22,14 +23,18 @@ common-js:
   <body>
 
     {% include gtm_body.html %}
-  
+
     {% include nav.html %}
 
     {{ content }}
 
+    <script>
+      anchors.add()
+    </script>
+
     {% include footer.html %}
-  
+
     {% include footer-scripts.html %}
-  
+
   </body>
 </html>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: learn by doing
+subtitle: Learn by doing
 ---
 
 <span class="fa fa-briefcase about-icon"></span>
@@ -12,7 +12,7 @@ Obtained MS in **Computer Engineering** from the Columbia University, and Bachel
 University (previously known as Beijing University of Aeronautics & Astronautics, a better name), Beijing, China.
 
 <span class="fa fa-code about-icon"></span>
-Recently, investing most of my time developing machine/deep learning skills. Passionate about infrastructure system-level development. Adept in C/C++ and Python. Learning Erlang and Rust.
+Recently, investing most of my time developing **machine/deep learning** skills. Passionate about **infrastructural system-level development**. Adept in **C/C++** and Python. Learning Erlang and Rust.
 
 <span class="fa fa-heart about-icon"></span>
 During my spare time, I love playing basketball, reading, writing and sketching. I tried to learn Saxophone, but ended up being too noisy to my neighbors and stoped in the halfway. If I had a big house, I would reume it.
