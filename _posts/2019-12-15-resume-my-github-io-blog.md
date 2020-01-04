@@ -1,1 +1,1 @@
-../my-blog-notes/misc/2019-12-15-resume-my-github-io-blog.md
+../my-blog-notes/blog/misc/2019-12-15-resume-my-github-io-blog.md
