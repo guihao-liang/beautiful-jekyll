@@ -1,1 +1,0 @@
-../my-blog-notes/misc/20-04-08-aws-virtual-address.md

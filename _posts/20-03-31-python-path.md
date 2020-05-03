@@ -1,1 +1,0 @@
-../my-blog-notes/lang/python/20-03-31-python-path.md
