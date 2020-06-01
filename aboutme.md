@@ -5,7 +5,7 @@ subtitle: Learn by doing
 ---
 
 <span class="fa fa-briefcase about-icon"></span>
-I'm working for Apple as a **software engineer** to build infrastructure for machine learning products. One project that I can tell the public is [TuriCreate](https://github.com/apple/turicreate). Previously, I worked for Zillow Group to develop the core in-house built search engine, called POGO, under Chief Architect [Randy Puttick](https://www.linkedin.com/in/randy-puttick-b00aa0/)'s supervision.
+I'm working for Apple as a **software engineer** to build infrastructure for machine learning products. Currently, I work on IRIS, a distributed deep learning framework. Previously, I worked for Zillow Group to develop the core in-house built search engine, called POGO, under Chief Architect [Randy Puttick](https://www.linkedin.com/in/randy-puttick-b00aa0/)'s supervision.
 
 <span class="fa fa-graduation-cap about-icon"></span>
 Obtained MS in **Computer Engineering** from the Columbia University, and Bachelor degree of **Electrical and Information Engineering** from Beihang
